@@ -1,0 +1,15 @@
+.\objects\misc.o: ..\STM32_Lib\FWLib\misc.c
+.\objects\misc.o: ..\STM32_Lib\FWLib\misc.h
+.\objects\misc.o: ..\STM32_Lib\CMSIS\stm32f10x.h
+.\objects\misc.o: ..\STM32_Lib\CMSIS\core_cm3.h
+.\objects\misc.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\misc.o: ..\STM32_Lib\CMSIS\system_stm32f10x.h
+.\objects\misc.o: ..\File\User\stm32f10x_conf.h
+.\objects\misc.o: ..\STM32_Lib\FWLib\stm32f10x_can.h
+.\objects\misc.o: ..\STM32_Lib\CMSIS\stm32f10x.h
+.\objects\misc.o: ..\STM32_Lib\FWLib\stm32f10x_exti.h
+.\objects\misc.o: ..\STM32_Lib\FWLib\stm32f10x_gpio.h
+.\objects\misc.o: ..\STM32_Lib\FWLib\stm32f10x_rcc.h
+.\objects\misc.o: ..\STM32_Lib\FWLib\stm32f10x_tim.h
+.\objects\misc.o: ..\STM32_Lib\FWLib\stm32f10x_usart.h
+.\objects\misc.o: ..\STM32_Lib\FWLib\misc.h

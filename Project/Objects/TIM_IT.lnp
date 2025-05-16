@@ -1,0 +1,27 @@
+--cpu Cortex-M3
+".\objects\main.o"
+".\objects\friction_identify.o"
+".\objects\erob_drv.o"
+".\objects\hsq_math.o"
+".\objects\stm32f10x_it.o"
+".\objects\lpf.o"
+".\objects\bsp_init.o"
+".\objects\can.o"
+".\objects\usart.o"
+".\objects\timer.o"
+".\objects\rtt.o"
+".\objects\segger_rtt.o"
+".\objects\core_cm3.o"
+".\objects\system_stm32f10x.o"
+".\objects\startup_stm32f10x_md.o"
+".\objects\stm32f10x_gpio.o"
+".\objects\stm32f10x_rcc.o"
+".\objects\misc.o"
+".\objects\stm32f10x_tim.o"
+".\objects\stm32f10x_exti.o"
+".\objects\stm32f10x_can.o"
+".\objects\stm32f10x_usart.o"
+--library_type=microlib --strict --scatter ".\Objects\TIM_IT.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\Listings\TIM_IT.map" -o .\Objects\TIM_IT.axf
