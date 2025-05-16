@@ -1,4 +1,4 @@
-# 波纹管减速器旋转执行器的摩擦与重力补偿
+# 谐波减速器关节模组的摩擦与重力补偿
 
 中文版本 | [English Version](README.md)
 
@@ -8,9 +8,9 @@
 
 <div align="center">
   <a href="https://www.douyin.com/root/search/%E7%BF%BC%E4%B9%8B%E9%81%93%E5%8D%97?aid=8cb9d95d-8616-40a8-8e3b-72b33bdcd262&type=general">
-    <img src="https://img.youtube.com/vi/I29rnLXZR1I/0.jpg" alt="波纹管减速器旋转执行器演示">
+    <img src="https://img.youtube.com/vi/I29rnLXZR1I/0.jpg" alt="谐波减速器关节模组演示">
   </a>
-  <p>观看完整演示视频：<a href="https://www.douyin.com/root/search/%E7%BF%BC%E4%B9%8B%E9%81%93%E5%8D%97?aid=8cb9d95d-8616-40a8-8e3b-72b33bdcd262&type=general">抖音视频链接</a></p>
+  <p>观看完整演示视频：<a href="https://www.douyin.com/search/%E7%BF%BC%E4%B9%8B%E9%81%93%E7%94%B7?aid=49e5ec99-4182-4b0a-963c-e38b69afe32b&modal_id=7485367159292497163&type=general">抖音视频链接</a></p>
 </div>
 
 ## 测试平台介绍
@@ -71,4 +71,4 @@
 
 ## 后续内容
 
-在下一个项目中，我们将建立波纹管减速器旋转执行器的速度环模型。敬请期待。
+在下一个项目中，我们将建立波谐波减速器关节模组的速度环模型。敬请期待。
