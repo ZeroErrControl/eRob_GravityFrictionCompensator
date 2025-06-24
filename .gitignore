@@ -1,0 +1,10 @@
+Project/.vscode/**
+Project/DebugConfig/**
+Project/Listings/**
+Project/Objects/**
+*.Administrator
+*.nvguix.*
+*.scvd
+*.txt
+*.ini
+.vscode/**
